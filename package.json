@@ -1,0 +1,22 @@
+{
+  "name": "quicker",
+  "version": "0.0.1",
+  "description": "quick tools",
+  "main": "quicker.js",
+  "scripts": {
+    "test": "node quicker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainEvem/quicker.git"
+  },
+  "keywords": [
+    "quicker"
+  ],
+  "author": "CaptainEvem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CaptainEvem/quicker/issues"
+  },
+  "homepage": "https://github.com/CaptainEvem/quicker#readme"
+}
