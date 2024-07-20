@@ -123,3 +123,5 @@ let circumferance = qer.calculateCircumferance(10);
 qer.log(circumferance);
 //Logs the circumference of a circle with radius 10
 ```
+
+https://bentahsin.com
